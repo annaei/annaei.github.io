@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Anna Maria Eilertsen
 
-You can use the [editor on GitHub](https://github.com/Sowhow/sowhow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisor is [Anya Bagge](https://www.ii.uib.no/~anya/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in program comprehention, refactoring, program transformation, parsing and software language evolution. I am currently working on software language evolution. 
 
-### Markdown
+## Contact
+anna.eilertsen@ii.uib.no
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Twitter: @sowhow
 
-```markdown
-Syntax highlighted code block
+## Publications
 
-# Header 1
-## Header 2
-### Header 3
+### Papers
+**Safer refactorings**
 
-- Bulleted
-- List
+AM Eilertsen, AH Bagge, V Stolz
+International Symposium on Leveraging Applications of Formal Methods, 517-531
 
-1. Numbered
-2. List
+[**Nerding for Newbies 2014 A Summer School in Computers & Programming**](http://www.ii.uib.no/~anya/papers/bagge-bagge-etal-nik14-nerding.pdf)
 
-**Bold** and _Italic_ and `Code` text
+ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova
+Norsk Informatikkonferanse (NIK)
 
-[Link](url) and ![Image](src)
-```
+**A Sage library for analysis of nonlinear binary mapping**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
+Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
-### Jekyll Themes
+### Thesis
+[Making software refactoring safer](http://www.uib.no/sites/w3.uib.no/files/attachments/main.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sowhow/sowhow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+AM Eilertsen
+Master’s thesis, Department of Informatics, University of Bergen
