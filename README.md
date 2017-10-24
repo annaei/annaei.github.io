@@ -33,6 +33,11 @@ Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 AM Eilertsen
 Master’s thesis, Department of Informatics, University of Bergen
 
+## Presented
+* Talk: Safer Refactorings with Assertions [SATToSE 2016](http://sattose.org/2016)
+* Poster: Balance Your Fitness, finding the sweet spot of readability [SANER 2016](http://saner.inf.usi.ch/index.php)
+* Talk: Safer Refactorings with Assertions [GTTsE 2015 summer school](http://gttse.wikidot.com/2015:welcome) 
+
 ## Other interests
 I also love talking about: 
 
