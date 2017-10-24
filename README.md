@@ -32,3 +32,13 @@ Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
 AM Eilertsen
 Master’s thesis, Department of Informatics, University of Bergen
+
+## Other interests
+I also love talking about: 
+
+* weight lifting, yoga
+* hiking and mountaineering
+* fantasy books
+* role playing games, board games
+* animated movies (e.g. Ghibli)
+* traveling, cultures 
