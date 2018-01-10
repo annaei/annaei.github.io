@@ -2,7 +2,7 @@
 
 I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisor is [Anya Bagge](https://www.ii.uib.no/~anya/).
 
-I am interested in software language design and evolution, program representation/comprehention, refactoring, program transformation, parsing and teaching programming to non-programmers. I am currently working on software language evolution. 
+I am interested in software language design and evolution, program behaviour, program comprehention, refactoring and program transformation. I am currently working on software language evolution. 
 
 ## Contact
 anna.eilertsen@ii.uib.no
