@@ -41,9 +41,11 @@ Master’s thesis, Department of Informatics, University of Bergen
 ## Other interests
 I also love talking about: 
 
+* languages (non-programming ones)
+* psychology
 * weight lifting, yoga
 * hiking and mountaineering
-* fantasy books
+* books (fantasy++)
 * role playing games (mainly [Pathfinder](http://paizo.com/pathfinderRPG/)), board games
 * animated movies (e.g. Ghibli)
 * traveling, cultures 
