@@ -44,6 +44,6 @@ I also love talking about:
 * weight lifting, yoga
 * hiking and mountaineering
 * fantasy books
-* role playing games, board games
+* role playing games (mainly [Pathfinder](http://paizo.com/pathfinderRPG/)), board games
 * animated movies (e.g. Ghibli)
 * traveling, cultures 
