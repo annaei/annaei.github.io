@@ -49,3 +49,5 @@ I also love talking about:
 * role playing games (mainly [Pathfinder](http://paizo.com/pathfinderRPG/)), board games
 * animated movies (e.g. Ghibli)
 * traveling, cultures 
+
+My [work wiki](https://github.com/annaei/annaei.github.io/wiki)
