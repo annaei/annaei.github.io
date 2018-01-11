@@ -50,4 +50,5 @@ I also love talking about:
 * animated movies (e.g. Ghibli)
 * traveling, cultures 
 
+## Other
 My [work wiki](https://github.com/annaei/annaei.github.io/wiki)
