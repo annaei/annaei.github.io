@@ -33,7 +33,9 @@ Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 AM Eilertsen
 Master’s thesis, Department of Informatics, University of Bergen
 
-## Presented
+## Presentations
+* Paper: Exploring API/Client co-evolution [WAPI 2018](https://github.com/annaei/annaei.github.io/blob/master/API%20CO-EVO%20WAPI-print.pdf)
+* Poster: Software != Programs : Software behaviour as an emergent property [<Programming 2018>](https://github.com/annaei/annaei.github.io/blob/master/poster-p18.jpg)
 * Talk: Safer Refactorings with Assertions [SATToSE 2016](http://sattose.org/2016)
 * Poster: Balance Your Fitness, finding the sweet spot of readability [SANER 2016](http://saner.inf.usi.ch/index.php)
 * Talk: Safer Refactorings with Assertions [GTTsE 2015 summer school](http://gttse.wikidot.com/2015:welcome) 
