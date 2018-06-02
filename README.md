@@ -45,11 +45,13 @@ I also love talking about:
 
 * languages (non-programming ones)
 * psychology
-* weight lifting, yoga
+* boogie woogie swing
+* rock climbing
 * hiking and mountaineering
-* books (fantasy++)
-* role playing games (mainly [Pathfinder](http://paizo.com/pathfinderRPG/)), board games
-* animated movies (e.g. Ghibli)
+* books (Gödel Echer Bach, ++)
+* interesting music
+* board games
+* ghibli movies
 * traveling, cultures 
 
 ## Other
