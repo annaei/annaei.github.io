@@ -2,7 +2,9 @@
 
 I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisor is [Anya Bagge](https://www.ii.uib.no/~anya/).
 
-I am interested in software language design and evolution, program behaviour, program comprehention, refactoring and program transformation. I am currently working on software language evolution. 
+Currently hanging out in Vancouver BC, at UBC, where I work under [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
+
+I am interested in software language design and evolution, static analysis, program comprehention, refactoring and modelling. I am currently working on software language evolution and API/Client co-evolution. 
 
 ## Contact
 anna.eilertsen@ii.uib.no
@@ -45,14 +47,9 @@ I also love talking about:
 
 * languages (non-programming ones)
 * psychology
-* boogie woogie swing
+* swing dancing
 * rock climbing
 * hiking and mountaineering
-* books (Gödel Echer Bach, ++)
 * interesting music
-* board games
-* ghibli movies
-* traveling, cultures 
-
-## Other
-My [work wiki](https://github.com/annaei/annaei.github.io/wiki)
+* boardgames
+* traveling 
