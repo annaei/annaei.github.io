@@ -9,8 +9,8 @@ I am interested in software language design and evolution, static analysis, prog
 ## Contact
 anna.eilertsen@uib.no
 
-Twitter: [@sowhow](https://twitter.com/Sowhow) - work and tech stuff 
-Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels and hikes
+Twitter: [@sowhow](https://twitter.com/Sowhow) - work and tech stuff   
+Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels and hikes  
 
 ## Publications
 
