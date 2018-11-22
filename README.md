@@ -9,7 +9,7 @@ I am interested in software language design and evolution, static analysis, prog
 ## Contact
 anna.eilertsen@uib.no
 
-Twitter: @sowhow
+Twitter: [@sowhow](https://twitter.com/Sowhow)
 
 ## Publications
 
