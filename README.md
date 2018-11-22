@@ -14,7 +14,7 @@ Twitter: [@sowhow](https://twitter.com/Sowhow)
 ## Publications
 
 ### Papers
-**Safer refactorings**
+[**Safer refactorings**](https://link.springer.com/chapter/10.1007/978-3-319-47166-2_36)
 
 AM Eilertsen, AH Bagge, V Stolz
 International Symposium on Leveraging Applications of Formal Methods, 517-531
