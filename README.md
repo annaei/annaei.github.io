@@ -4,10 +4,10 @@ I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [depart
 
 Currently hanging out in Vancouver BC, at UBC, where I work under [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
 
-I am interested in software language design and evolution, static analysis, program comprehention, refactoring and modelling. I am currently working on software language evolution and API/Client co-evolution. 
+I am interested in software language design and evolution, static analysis, program comprehention, refactoring. I am currently working on software language evolution and API/Client co-evolution. I also have contributed to initiatives to attract and retain female students, and are interested in challenges and solutions related to diversity and culture in software engineering. 
 
 ## Contact
-anna.eilertsen@ii.uib.no
+anna.eilertsen@uib.no
 
 Twitter: @sowhow
 
@@ -36,6 +36,7 @@ AM Eilertsen
 Master’s thesis, Department of Informatics, University of Bergen
 
 ## Presentations
+* Talk: What can we learn about Locating Refactoring Opportunities from Decomposing Monoliths to Microservices [UFCG/HVL project by CAPES, Campina Grande](TODO add link) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/Refactoring-talk-campina.pdf)
 * Paper: Exploring API/Client co-evolution [WAPI 2018](https://w-api.github.io/) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/API%20CO-EVO%20WAPI-print.pdf)
 * Poster: Software != Programs : Software behaviour as an emergent property [<Programming 2018>](https://2018.programming-conference.org/track/programming-2018-Posters) - [*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/poster-p18.jpg)
 * Talk: Safer Refactorings with Assertions [SATToSE 2016](http://sattose.org/2016)
@@ -47,6 +48,7 @@ I also love talking about:
 
 * languages (non-programming ones)
 * psychology
+* psycho liguistics
 * swing dancing
 * rock climbing
 * hiking and mountaineering
