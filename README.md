@@ -2,9 +2,11 @@
 
 I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisor is [Anya Bagge](https://www.ii.uib.no/~anya/).
 
-Currently hanging out in Vancouver BC, at UBC, where I learn about empirical methods and software engineering under [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
+Currently hanging out in Vancouver BC, at UBC, where I learn about empirical methods and software engineering under [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-I am interested in software language design and evolution, static analysis, program comprehention and refactoring. I am currently working on software language evolution and module co-evolution. I also have contributed to initiatives to attract and retain female students, and are interested in challenges and solutions related to diversity and culture in software engineering. 
+I am interested in software language design and evolution, static analysis, program comprehention and refactoring. I am currently working on software language evolution and co-evolution with language processors, like refactoring tools. I believe it is important to be mindful of which parts of the language machinery needs to be understood by developers, and which parts can safely be tucked away behind complex mechanics. 
+
+I also have contributed to initiatives to attract and retain female students, and are interested in challenges and solutions related to diversity and culture in software engineering. 
 
 ## Contact
 anna.eilertsen@uib.no
