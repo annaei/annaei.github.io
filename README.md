@@ -1,12 +1,12 @@
 ## Anna Maria Eilertsen
 
-Hi! I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are [Anya Bagge](https://www.ii.uib.no/~anya/) and [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
+Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are [Anya Bagge](https://www.ii.uib.no/~anya/) and [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-I am passionate about making humans better at programming, through education, tools and language design. By designing tools and languages that abstracts both lower-level instructions and developer's intuitive thinking-blocks, we fight against the inherent complexity of software. 
+I am passionate about making humans better at programming through education, tools, and language design. By designing tools and languages that abstract both lower-level instructions and developer's intuitive thinking-blocks, we fight against the inherent complexity of software. 
 
-I am curious about how developers use and understand software languages and language-related tools. After doing my master's thesis on refactoring correctness, I became interested in bridging the gap between formal requirements and usability in reafactoring tools. 
+I am curious about how developers use and understand software languages and language-related tools. After doing my master's thesis on refactoring correctness, I became interested in bridging the gap between formal requirements and usability in refactoring tools. 
 
-Currently, I am on a research stay with Dr. Gail Murphy at UBC, Vancouver BC. Under Muprhy's supervision I perform user studies of developers to learn how they use, underuse and misuse, refactoring tools. I also scrape repositories for 'real' refactorings and study how they compare to tool refactorings. 
+Currently, I am on a research stay with Dr. Gail Murphy at UBC, Vancouver BC. Under Murphy's supervision, I perform user studies of developers to learn how they use, underuse and misuse, refactoring tools. I also scrape repositories for 'real' refactorings and study how they compare to tool refactorings. 
 
 I also have started and contributed to initiatives that increase diversity among computer science students. I am interested in challenges and solutions related to genders and inclusive culture in software engineering. 
 
@@ -49,12 +49,12 @@ Master’s thesis, Department of Informatics, University of Bergen
 * Talk: Safer Refactorings with Assertions [GTTsE 2015 summer school](http://gttse.wikidot.com/2015:welcome) 
 
 ## Other interests
-When I am not on my screen I 
+When I am not in the lab I
 
 * swing dance
-* rock climb
+* rock climb 
 * hike 
 * travel
-* play boardgames
+* play board games
 * read books
 * cook
