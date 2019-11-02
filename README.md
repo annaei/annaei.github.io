@@ -1,18 +1,20 @@
 ## Anna Maria Eilertsen
 
-I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisor is [Anya Bagge](https://www.ii.uib.no/~anya/).
+Hi! I am a PhD student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are [Anya Bagge](https://www.ii.uib.no/~anya/) and [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-Currently hanging out in Vancouver BC, at UBC, where I learn about empirical methods and software engineering under [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
+I am passionate about making humans better at programming, through education, tools and language design. By designing tools and languages that abstracts both lower-level instructions and developer's intuitive thinking-blocks, we fight against the inherent complexity of software. 
 
-I am interested in software language design and evolution, static analysis, program comprehention and refactoring. I am currently working on software language evolution and co-evolution with language processors, like refactoring tools. I believe it is important to be mindful of which parts of the language machinery needs to be understood by developers, and which parts can safely be tucked away behind complex mechanics. 
+I am curious about how developers use and understand software languages and language-related tools. After doing my master's thesis on refactoring correctness, I became interested in bridging the gap between formal requirements and usability in reafactoring tools. 
 
-I also have contributed to initiatives to attract and retain female students, and are interested in challenges and solutions related to diversity and culture in software engineering. 
+Currently, I am on a research stay with Dr. Gail Murphy at UBC, Vancouver BC. Under Muprhy's supervision I perform user studies of developers to learn how they use, underuse and misuse, refactoring tools. I also scrape repositories for 'real' refactorings and study how they compare to tool refactorings. 
+
+I also have started and contributed to initiatives that increase diversity among computer science students. I am interested in challenges and solutions related to genders and inclusive culture in software engineering. 
 
 ## Contact
 anna.eilertsen@uib.no
 
 Twitter: [@sowhow](https://twitter.com/Sowhow) - work and tech stuff   
-Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels and hikes  
+Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels 
 
 ## Publications
 
@@ -47,14 +49,12 @@ Master’s thesis, Department of Informatics, University of Bergen
 * Talk: Safer Refactorings with Assertions [GTTsE 2015 summer school](http://gttse.wikidot.com/2015:welcome) 
 
 ## Other interests
-I also love talking about: 
+When I am not on my screen I 
 
-* languages (non-programming ones)
-* psychology
-* psycho liguistics
-* swing dancing
-* rock climbing
-* hiking and mountaineering
-* interesting music
-* boardgames
-* traveling 
+* swing dance
+* rock climb
+* hike 
+* travel
+* play boardgames
+* read books
+* cook
