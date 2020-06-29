@@ -2,13 +2,9 @@
 
 Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are [Anya Bagge](https://www.ii.uib.no/~anya/) and [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-I am passionate about making humans better at programming through education, tools, and language design. By designing tools and languages that abstract both lower-level instructions and developer's intuitive thinking-blocks, we fight against the inherent complexity of software. 
+I am passionate about making humans better at programming through education, tools, and language design. By designing tools that let developers effectively instruct and understand machines, software can be created and changed faster and more accuratly. 
 
-I am curious about how developers use and understand software languages and language-related tools. After doing my master's thesis on refactoring correctness, I became interested in bridging the gap between formal requirements and usability in refactoring tools. 
-
-Currently, I am on a research stay with Dr. Gail Murphy at UBC, Vancouver BC. Under Murphy's supervision, I perform user studies of developers to learn how they use, underuse and misuse, refactoring tools. I also scrape repositories for 'real' refactorings and study how they compare to tool refactorings. 
-
-I also have started and contributed to initiatives that increase diversity among computer science students. I am interested in challenges and solutions related to genders and inclusive culture in software engineering. 
+I also participate in initiatives for increased diversity in computer science and software engineering. 
 
 ## Contact
 anna.eilertsen@uib.no
@@ -17,6 +13,8 @@ Twitter: [@sowhow](https://twitter.com/Sowhow) - work and tech stuff
 Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels 
 
 ## Publications
+
+[Predictable, Flexible or Correct: Trading off Refactoring Design Choices](TODO)[ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/) - [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/) 
 
 [Exploring API/Client co-evolution](https://dl.acm.org/citation.cfm?doid=3194793.3194799) [WAPI 2018](https://w-api.github.io/) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/API%20CO-EVO%20WAPI-print.pdf)
 
