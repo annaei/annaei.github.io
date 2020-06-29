@@ -52,7 +52,3 @@ When I am not in the lab I
 * swing dance
 * rock climb 
 * hike 
-* travel
-* play board games
-* read books
-* cook
