@@ -9,9 +9,6 @@ I also participate in initiatives for increased diversity in computer science an
 ## Contact
 anna.eilertsen@uib.no
 
-Twitter: [@sowhow](https://twitter.com/Sowhow) - work and tech stuff   
-Instagram: [@sowhow](https://www.instagram.com/sowhow/) - travels 
-
 ## Publications
 
 [Predictable, Flexible or Correct: Trading off Refactoring Design Choices](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/) - [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/) - [*Code examples here*](https://github.com/annaei/IWoR20)
