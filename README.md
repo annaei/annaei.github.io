@@ -37,6 +37,7 @@ AM Eilertsen
 Master’s thesis, Department of Informatics, University of Bergen
 
 ## Presentations
+* Talk: Modularity in Software Design at [ICT Research School](https://www.uib.no/en/rs/ict/135784/ict-research-school-annual-meeting-2020) - [*Slides here*](https://annaei.github.io/Modularity.pdf)  
 * Talk: What can we learn about Locating Refactoring Opportunities from Decomposing Monoliths to Microservices [UFCG/HVL project by CAPES, Campina Grande](TODO add link) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/Refactoring-talk-campina.pdf)
 * Poster: Software != Programs : Software behaviour as an emergent property [<Programming 2018>](https://2018.programming-conference.org/track/programming-2018-Posters) - [*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/poster-p18.jpg)
 * Talk: Safer Refactorings with Assertions [SATToSE 2016](http://sattose.org/2016)
