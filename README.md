@@ -13,8 +13,8 @@ anna.m.eilertsen@gmail.com
 
 ## Publications
 
-The Usability (or Not) of Refactoring Tools [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted) - to appear
-[Replication Package](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
+The Usability (or Not) of Refactoring Tools [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted) - to appear -
+[*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
 [Predictable, Flexible or Correct: Trading off Refactoring Design Choices](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/) - [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/) - [*Code examples here*](https://github.com/annaei/IWoR20)  
 
