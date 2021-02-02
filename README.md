@@ -7,8 +7,8 @@ I am passionate about making humans better at programming through education, too
 I also participate in initiatives for increased diversity in computer science and software engineering. 
 
 ## Contact
-anna.eilertsen@uib.no
-anna.m.eilertsen@gmail.com
+anna.eilertsen@uib.no  
+anna.m.eilertsen@gmail.com  
 [@annam_ei](https://twitter.com/annam_ei)
 
 ## Publications
