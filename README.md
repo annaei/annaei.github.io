@@ -26,7 +26,6 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 * conf.researchr: [annamariaeilertsen2](https://conf.researchr.org/profile/annamariaeilertsen2)
 
 ## Publications
-
 * "The Usability (or Not) of Refactoring Tools"  
 by Anna Maria Eilertsen, Gail C. Murphy  
 at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
@@ -43,14 +42,14 @@ by Anna Maria Eilertsen, Anya Helene Bagge
 at [WAPI 2018](https://w-api.github.io/)  
 
 * "Safer refactorings" [Access paper here](https://link.springer.com/chapter/10.1007/978-3-319-47166-2_36)   
-by ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova  
+by Anna Maria Eilertsen, Anya Helene Bagge, Volker Stolz  
 in International Symposium on Leveraging Applications of Formal Methods, 517-531
 
 * "Nerding for Newbies 2014 A Summer School in Computers & Programming" [Access paper here](http://www.ii.uib.no/~anya/papers/bagge-bagge-etal-nik14-nerding.pdf)  
-by 
+by ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova  
 at Norsk Informatikkonferanse (NIK)
 
-* "A Sage library for analysis of nonlinear binary mapping". 
+* "A Sage library for analysis of nonlinear binary mapping"  
 by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
 in Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
