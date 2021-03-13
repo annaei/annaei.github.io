@@ -18,10 +18,10 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 
 
 ## Contact
-anna.eilertsen@uib.no  
-anna.m.eilertsen@gmail.com  
-[@annam_ei](https://twitter.com/annam_ei)
-[conf.researchr](https://conf.researchr.org/profile/annamariaeilertsen2)
+* UiB: [anna.eilertsen@uib.no](anna.eilertsen@uib.no)
+* Personal: [anna.m.eilertsen@gmail.com](anna.m.eilertsen@gmail.com)  
+* Twitter: [@annam_ei](https://twitter.com/annam_ei)
+* conf.researchr: [annamariaeilertsen2](https://conf.researchr.org/profile/annamariaeilertsen2)
 
 ## Publications
 
