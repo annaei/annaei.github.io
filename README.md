@@ -50,7 +50,7 @@ by ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova
 at Norsk Informatikkonferanse (NIK)
 
 * "A Sage library for analysis of nonlinear binary mapping"  
-by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
+by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt  
 in Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
 ## Other interests
