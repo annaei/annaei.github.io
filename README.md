@@ -27,27 +27,32 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 
 ## Publications
 
-The Usability (or Not) of Refactoring Tools [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted) - to appear -
+* "The Usability (or Not) of Refactoring Tools" 
+by Anna Maria Eilertsen, Gail C. Murphy  
+at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
-[Predictable, Flexible or Correct: Trading off Refactoring Design Choices](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/) - [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/) - [*Code examples here*](https://github.com/annaei/IWoR20)  
+* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) 
+by Anna Maria Eilertsen  
+at [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)  
+[*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/)  
+[*Code examples here*](https://github.com/annaei/IWoR20)  
 
-[Exploring API/Client co-evolution](https://dl.acm.org/citation.cfm?doid=3194793.3194799) [WAPI 2018](https://w-api.github.io/) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/API%20CO-EVO%20WAPI-print.pdf)
+* "Exploring API/Client co-evolution" [Access paper here](https://dl.acm.org/citation.cfm?doid=3194793.3194799) 
+by Anna Maria Eilertsen, Anya Helene Bagge     
+at [WAPI 2018](https://w-api.github.io/)  
 
-[**Safer refactorings**](https://link.springer.com/chapter/10.1007/978-3-319-47166-2_36)
+* "Safer refactorings" [Access paper here](https://link.springer.com/chapter/10.1007/978-3-319-47166-2_36)   
+by ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova  
+in International Symposium on Leveraging Applications of Formal Methods, 517-531
 
-AM Eilertsen, AH Bagge, V Stolz
-International Symposium on Leveraging Applications of Formal Methods, 517-531
+* "Nerding for Newbies 2014 A Summer School in Computers & Programming" [Access paper here](http://www.ii.uib.no/~anya/papers/bagge-bagge-etal-nik14-nerding.pdf)  
+by 
+at Norsk Informatikkonferanse (NIK)
 
-[**Nerding for Newbies 2014 A Summer School in Computers & Programming**](http://www.ii.uib.no/~anya/papers/bagge-bagge-etal-nik14-nerding.pdf)
-
-ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova
-Norsk Informatikkonferanse (NIK)
-
-**A Sage library for analysis of nonlinear binary mapping**
-
-AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
-Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
+* "A Sage library for analysis of nonlinear binary mapping". 
+by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
+in Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
 ## Presentations
 * Talk: Modularity in Software Design at [ICT Research School](https://www.uib.no/en/rs/ict/135784/ict-research-school-annual-meeting-2020) - [*Slides here*](https://annaei.github.io/Modularity.pdf)  
