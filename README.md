@@ -27,18 +27,18 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 
 ## Publications
 
-* "The Usability (or Not) of Refactoring Tools" 
+* "The Usability (or Not) of Refactoring Tools"  
 by Anna Maria Eilertsen, Gail C. Murphy  
 at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
-* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) 
+* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  
 by Anna Maria Eilertsen  
 at [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)  
 [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/)  
 [*Code examples here*](https://github.com/annaei/IWoR20)  
 
-* "Exploring API/Client co-evolution" [Access paper here](https://dl.acm.org/citation.cfm?doid=3194793.3194799) 
+* "Exploring API/Client co-evolution" [Access paper here](https://dl.acm.org/citation.cfm?doid=3194793.3194799)  
 by Anna Maria Eilertsen, Anya Helene Bagge     
 at [WAPI 2018](https://w-api.github.io/)  
 
@@ -54,16 +54,8 @@ at Norsk Informatikkonferanse (NIK)
 by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
 in Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
-## Presentations
-* Talk: Modularity in Software Design at [ICT Research School](https://www.uib.no/en/rs/ict/135784/ict-research-school-annual-meeting-2020) - [*Slides here*](https://annaei.github.io/Modularity.pdf)  
-* Talk: What can we learn about Locating Refactoring Opportunities from Decomposing Monoliths to Microservices [UFCG/HVL project by CAPES, Campina Grande](TODO add link) - [*Slides here*](https://github.com/annaei/annaei.github.io/blob/master/Refactoring-talk-campina.pdf)
-* Poster: Software != Programs : Software behaviour as an emergent property [<Programming 2018>](https://2018.programming-conference.org/track/programming-2018-Posters) - [*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/poster-p18.jpg)
-* Talk: Safer Refactorings with Assertions [SATToSE 2016](http://sattose.org/2016)
-* Poster: Balance Your Fitness, finding the sweet spot of readability [SANER 2016](http://saner.inf.usi.ch/index.php)
-* Talk: Safer Refactorings with Assertions [GTTsE 2015 summer school](http://gttse.wikidot.com/2015:welcome) 
-
 ## Other interests
-When I am not in the lab I
+When I am not in the lab, I
 
 * swing dance
 * rock climb 
