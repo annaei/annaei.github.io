@@ -1,5 +1,3 @@
-## Anna Maria Eilertsen
-
 Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
 My PhD research is focused on helping humans edit programs. I focus on refactoring tools and software change tasks. I have designed and executed user studies with programmer practitioners, mined open source repositories to create refactoring tasks, and created online surveys. Currently, I work on a prototype "refactoring" tool for IntelliJ. I have previously implemented prototype plugins for Eclipse and Visual Studio Code. 
