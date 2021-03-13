@@ -1,15 +1,26 @@
 ## Anna Maria Eilertsen
 
-Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are [Anya Bagge](https://www.ii.uib.no/~anya/) and [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
+Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-I am passionate about making humans better at programming through education, tools, and language design. By designing tools that let developers effectively instruct and understand machines, software can be created and changed faster and more accuratly. 
+My PhD research is focused on helping humans edit programs. I focus on refactoring tools and software change tasks. I have done user studies with practitioners, mined open source repositories, and performed online surveys. Currently I work on a prototype tool for IntelliJ. I have previously implemented prototype plugins for Eclipse and Visual Studio Code. 
 
-I also participate in initiatives for increased diversity in computer science and software engineering. 
+Aside from research activites I participate in initiatives for increased diversity in computer science and software engineering. As an undergraduate I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creatung tasks and exam exercises for classes of up to several houndred students. I have been examiner for both oral and written exams and I have supervised one master student. I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
+
+## News 
+2021 Joined [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
+2021 "The Usability (or Not) of Refactoring Tools" presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
+2021 [ASE Nier Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
+2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) presented at [IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)
+2020 [ASE Nier Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
+2018 Visting Research Student at the [SPL lab at UBC](https://spl.cs.ubc.ca/people.html), hosted by Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
+2018 [ASE Artifact Evaluation Committee](https://conf.researchr.org/committee/sle-2018/papers-artifact-evaluation-committee)
+
 
 ## Contact
 anna.eilertsen@uib.no  
 anna.m.eilertsen@gmail.com  
 [@annam_ei](https://twitter.com/annam_ei)
+[conf.researchr](https://conf.researchr.org/profile/annamariaeilertsen2)
 
 ## Publications
 
@@ -34,12 +45,6 @@ Norsk Informatikkonferanse (NIK)
 
 AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
 Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
-
-### Thesis
-[Making software refactoring safer](http://www.uib.no/sites/w3.uib.no/files/attachments/main.pdf)
-
-AM Eilertsen
-Master’s thesis, Department of Informatics, University of Bergen
 
 ## Presentations
 * Talk: Modularity in Software Design at [ICT Research School](https://www.uib.no/en/rs/ict/135784/ict-research-school-annual-meeting-2020) - [*Slides here*](https://annaei.github.io/Modularity.pdf)  
