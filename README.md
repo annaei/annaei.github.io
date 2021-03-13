@@ -2,7 +2,9 @@ Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [
 
 My PhD research is focused on helping humans edit programs. I focus on refactoring tools and software change tasks. I have designed and executed user studies with programmer practitioners, mined open source repositories to create refactoring tasks, and created online surveys. Currently, I work on a prototype "refactoring" tool for IntelliJ. I have previously implemented prototype plugins for Eclipse and Visual Studio Code. 
 
-Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one master student to graduation. I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
+Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one master student to graduation. 
+
+I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
 
 ## News 
 * 2021 Joined [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
