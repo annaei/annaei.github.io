@@ -55,8 +55,10 @@ by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt
 in Pre-proceedings of Central European Conference on Cryptology (CECC14), 69-78
 
 ## Other interests
-When I am not in the lab, I
+I get energy from
 
 * swing dance
-* rock climb 
-* hike 
+* hikes, camping and climbing
+* boardgames
+
+<img src="/img/bye.jpeg" width="400">
