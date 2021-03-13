@@ -14,6 +14,7 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 * 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) 
   presented at [IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)
 * 2020 [ASE Nier Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
+* 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about)  
 * 2018 Visting Research Student at the [SPL lab at UBC](https://spl.cs.ubc.ca/people.html), hosted by Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
 * 2018 [ASE Artifact Evaluation Committee](https://conf.researchr.org/committee/sle-2018/papers-artifact-evaluation-committee)
 
