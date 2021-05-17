@@ -11,7 +11,7 @@ I have also been student volunteer, artifact reviewer, program committee member,
 * 2021 "The Usability (or Not) of Refactoring Tools"  
 presented at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)
 * 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
-* 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) 
+* 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf) 
   presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
 * 2020 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
 * 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about)  
@@ -31,7 +31,7 @@ by Anna Maria Eilertsen, Gail C. Murphy
 at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
-* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  
+* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf)  
 by Anna Maria Eilertsen  
 at [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)  
 [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/)  
