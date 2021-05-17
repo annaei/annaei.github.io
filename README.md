@@ -33,9 +33,9 @@ at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)
 * "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [Access paper here](https://dl.acm.org/doi/abs/10.1145/3387940.3392185)
 by Anna Maria Eilertsen  
 at [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)  
-[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf)
 [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/)  
 [*Code examples here*](https://github.com/annaei/IWoR20)  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf)
 
 * "Exploring API/Client co-evolution" [Access paper here](https://dl.acm.org/citation.cfm?doid=3194793.3194799)  
 by Anna Maria Eilertsen, Anya Helene Bagge     
