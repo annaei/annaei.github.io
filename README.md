@@ -8,7 +8,7 @@ I have also been student volunteer, artifact reviewer, program committee member,
 
 ## News 
 * 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
-* 2021 ["The Usability (or Not) of Refactoring Tools"](https://ieeexplore.ieee.org/abstract/document/9425894) presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted). 
+* 2021 ["The Usability (or Not) of Refactoring Tools"](https://ieeexplore.ieee.org/abstract/document/9425894) presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
 * 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
 * 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf) 
   presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
