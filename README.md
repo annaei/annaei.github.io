@@ -7,9 +7,8 @@ Aside from research activites, I participate in initiatives for increased divers
 I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
 
 ## News 
-* 2021 Joined [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
-* 2021 "The Usability (or Not) of Refactoring Tools"  
-presented at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)
+* 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
+* 2021 "The Usability (or Not) of Refactoring Tools" presented at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)
 * 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
 * 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf) 
   presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
@@ -31,23 +30,27 @@ by Anna Maria Eilertsen, Gail C. Murphy
 at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
-* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf)  
+* "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [Access paper here](https://dl.acm.org/doi/abs/10.1145/3387940.3392185)
 by Anna Maria Eilertsen  
 at [ICSEW’20: IWoR'20](http://bigcode.fudan.edu.cn/events/IWoR2020/)  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf)
 [*Presentation here*](https://prezi.com/view/04Py6pCIXt3JyrNVeQyN/)  
 [*Code examples here*](https://github.com/annaei/IWoR20)  
 
 * "Exploring API/Client co-evolution" [Access paper here](https://dl.acm.org/citation.cfm?doid=3194793.3194799)  
 by Anna Maria Eilertsen, Anya Helene Bagge     
 at [WAPI 2018](https://w-api.github.io/)  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/WAPI18.pdf)
 
 * "Safer refactorings" [Access paper here](https://link.springer.com/chapter/10.1007/978-3-319-47166-2_36)   
 by Anna Maria Eilertsen, Anya Helene Bagge, Volker Stolz  
-in International Symposium on Leveraging Applications of Formal Methods, 517-531
+in International Symposium on Leveraging Applications of Formal Methods, 517-531  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/ISOLA16.pdf)
 
 * "Nerding for Newbies 2014 A Summer School in Computers & Programming" [Access paper here](http://www.ii.uib.no/~anya/papers/bagge-bagge-etal-nik14-nerding.pdf)  
 by ML Bagge, AH Bagge, BN Buanes, AM Eilertsen, AK Herland, S Ivanova  
-at Norsk Informatikkonferanse (NIK)
+at Norsk Informatikkonferanse (NIK)  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/NIK14.pdf)
 
 * "A Sage library for analysis of nonlinear binary mapping"  
 by AM Eilertsen, O Kazymyrov, V Kazymyrova, M Storetvedt  
