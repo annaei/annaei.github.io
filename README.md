@@ -2,14 +2,14 @@ Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [
 
 My PhD research focuses on helping humans edit programs. I mainly look at refactoring tools and their application in software changes. I have designed and executed user studies with programmer practitioners to understand how practitioners use tools. I have mined open source repositories to create refactoring tasks and online surveys. Currently, I work on a prototype code editing/refactoring tool for IntelliJ. I have previously implemented other prototype plugins for Eclipse and Visual Studio Code. 
 
-Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one master student to graduation. 
+Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one Master's student to graduation. 
 
 I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
 
 ## News 
 * 2021 Joined [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
 * 2021 "The Usability (or Not) of Refactoring Tools"  
-presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
+presented at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)
 * 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
 * 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf) 
   presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
@@ -28,7 +28,7 @@ presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)
 ## Publications
 * "The Usability (or Not) of Refactoring Tools"  
 by Anna Maria Eilertsen, Gail C. Murphy  
-at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
+at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
 
 * "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [PDF here](https://github.com/annaei/annaei.github.io/blob/master/ICSE20-IWoR.pdf)  
