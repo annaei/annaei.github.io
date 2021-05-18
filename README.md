@@ -25,10 +25,11 @@ I have also been student volunteer, artifact reviewer, program committee member,
 * conf.researchr: [annamariaeilertsen2](https://conf.researchr.org/profile/annamariaeilertsen2)
 
 ## Publications
-* "The Usability (or Not) of Refactoring Tools"  
+* "The Usability (or Not) of Refactoring Tools" [Access paper here](https://ieeexplore.ieee.org/abstract/document/9425894)  
 by Anna Maria Eilertsen, Gail C. Murphy  
-at [SANER 2021](https://ieeexplore.ieee.org/abstract/document/9425894)  
+at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
 [*Replication Package here*](https://github.com/annaei/Replication-Data-for-The-Usability-or-Not-of-Refactoring-Tools)  
+[*PDF here*](https://github.com/annaei/annaei.github.io/blob/master/paper/SANER21.pdf) 
 
 * "Predictable, Flexible or Correct: Trading off Refactoring Design Choices" [Access paper here](https://dl.acm.org/doi/abs/10.1145/3387940.3392185)
 by Anna Maria Eilertsen  
