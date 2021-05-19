@@ -1,6 +1,6 @@
 Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools, like refactoring tools. 
+My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
 
 ## News 
 * 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
