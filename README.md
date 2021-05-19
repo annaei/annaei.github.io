@@ -1,10 +1,6 @@
 Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
-My PhD research focuses on helping humans edit programs. I mainly look at refactoring tools and their application in software changes. I have designed and executed user studies with programmer practitioners to understand how practitioners use tools. I have mined open source repositories to create refactoring tasks and online surveys. Currently, I work on a prototype code editing/refactoring tool for IntelliJ. I have previously implemented other prototype plugins for Eclipse and Visual Studio Code. 
-
-Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one Master's student to graduation. 
-
-I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
+My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools, like refactoring tools. 
 
 ## News 
 * 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
@@ -23,6 +19,15 @@ I have also been student volunteer, artifact reviewer, program committee member,
 * Personal: [anna.m.eilertsen@gmail.com](anna.m.eilertsen@gmail.com)  
 * Twitter: [@annam_ei](https://twitter.com/annam_ei)
 * conf.researchr: [annamariaeilertsen2](https://conf.researchr.org/profile/annamariaeilertsen2)
+
+
+## Experience 
+I have experience with designing and executing user studies with programmer practitioners to understand how practitioners use tools. I have mined open source repositories to create refactoring tasks and online surveys. Currently, I work on a prototype code editing/refactoring tool for IntelliJ. I have previously implemented other prototype plugins for Eclipse (a refactoring pluing) and Visual Studio Code (a transcription plugin). 
+
+Aside from research activites, I participate in initiatives for increased diversity in computer science. As an undergraduate, I started a gender initiative to retain more female students in our programming classes. I have also participated in teaching acitivites at University of Bergen for 7 years, including conducting lectures and creating tasks and exam exercises for classes of up to several houndred students. I have been an examiner for both oral and written exams, and I have supervised one Master's student to graduation. 
+
+I have also been student volunteer, artifact reviewer, program committee member, and chair on various conferences. 
+
 
 ## Publications
 * "The Usability (or Not) of Refactoring Tools" [Access paper here](https://ieeexplore.ieee.org/abstract/document/9425894)  
