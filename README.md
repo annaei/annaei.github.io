@@ -11,7 +11,7 @@ My research focuses on helping humans edit programs. In my Master's thesis, I us
 * 2020 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
 * 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about)  
 * 2018 - 2019 Visting Research Student at the [SPL lab at UBC](https://spl.cs.ubc.ca/people.html), hosted by Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
-* 2018 [ASE Artifact Evaluation Committee](https://conf.researchr.org/committee/sle-2018/papers-artifact-evaluation-committee)
+* 2018 [SLE Artifact Evaluation Committee](https://conf.researchr.org/committee/sle-2018/papers-artifact-evaluation-committee)
 
 
 ## Contact
