@@ -3,6 +3,7 @@ Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [
 My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
 
 ## News 
+* 2021 My paper "Stepwise Refactoring Tools" was accepted at the [NIER Track at ICMSE](https://icsme2021.github.io/cfp/NIERTrack.html)! 
 * 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
 * 2021 ["The Usability (or Not) of Refactoring Tools"](https://ieeexplore.ieee.org/abstract/document/9425894) presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
 * 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
