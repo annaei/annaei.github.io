@@ -11,9 +11,7 @@ My research focuses on helping humans edit programs. In my Master's thesis, I us
 * 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf) 
   presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
 * 2020 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
-* 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about)  
-* 2018 - 2019 Visting Research Student at the [SPL lab at UBC](https://spl.cs.ubc.ca/people.html), hosted by Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy)
-* 2018 [SLE Artifact Evaluation Committee](https://conf.researchr.org/committee/sle-2018/papers-artifact-evaluation-committee)
+* 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about) 
 
 
 ## Contact
@@ -34,7 +32,8 @@ I have also been student volunteer, artifact reviewer, program committee member,
 ## Publications
 * "A Study of Refactorings During Software Change Tasks" [Access paper here](https://onlinelibrary.wiley.com/doi/10.1002/smr.2378)  
 by Anna Maria Eilertsen, Gail C. Murphy  
-in  Journal of Software: Evolution and Process published by John Wiley & Sons Ltd.
+in  Journal of Software: Evolution and Process published by John Wiley & Sons Ltd.  
+The full replication package and dataset from the study is published on [Dataverse](https://doi.org/10.18710/VTTNXM)  
 
 * "The Usability (or Not) of Refactoring Tools" [Access paper here](https://ieeexplore.ieee.org/abstract/document/9425894)  
 by Anna Maria Eilertsen, Gail C. Murphy  
