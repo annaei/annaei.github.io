@@ -32,6 +32,10 @@ I have also been student volunteer, artifact reviewer, program committee member,
 
 
 ## Publications
+* "Stepwise Refactoring Tools* [Access paper here](https://www.morressier.com/article/stepwise-refactoring-tools/613b5419842293c031b5b646)  
+by Anna Maria Eilertsen, Gail C. Murphy  
+in [ICMSE 2021 Nier Track](https://icsme2021.github.io/cfp/NIERTrack.html)! 
+
 * "A Study of Refactorings During Software Change Tasks" [Access paper here](https://onlinelibrary.wiley.com/doi/10.1002/smr.2378)  
 by Anna Maria Eilertsen, Gail C. Murphy  
 in  Journal of Software: Evolution and Process published by John Wiley & Sons Ltd.  
