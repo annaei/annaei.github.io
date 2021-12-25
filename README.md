@@ -1,8 +1,9 @@
-Hi! I am a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
+Hi! I ~~am~~ was a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
 
 My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
 
 ## News 
+* 2021 Successfully defended my dissertation [Improving the Usability of Refactoring Tools for Software Change Tasks](https://bora.uib.no/bora-xmlui/handle/11250/2834069)!!  
 * 2021 Dissertation submitted!! 🤞🤞🤞. 
 * 2021 Our paper "Stepwise Refactoring Tools" is [published along with a presentation](https://www.morressier.com/article/stepwise-refactoring-tools/613b5419842293c031b5b646)!  
 * 2021 Our paper ["A Study of Refactorings During Software Change Tasks"](https://onlinelibrary.wiley.com/doi/10.1002/smr.2378) is out! 
