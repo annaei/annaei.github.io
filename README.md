@@ -81,5 +81,3 @@ I get energy from
 * swing dance
 * hikes, camping and climbing
 * boardgames
-
-<img src="/img/bye.jpeg" width="400">
