@@ -1,8 +1,11 @@
-Hi! I ~~am~~ was a Ph.D. student at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii), in the programming languages research group. My advisors are Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). 
+Hi! I am a fresh PhD graduate in software engineering looking for industry positions! [Download my CV here.](https://github.com/annaei/annaei.github.io/blob/master/doc/Eilertsen-Resume.pdf) If you have an opening for me, please reach out at anna.m.eilertsen@gmail.com. 
 
-My research focuses on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. During my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
+I completed my PhD at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii) in 2021. My advisors were Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). You can read more about my PhD [here](https://medium.com/@anna.m.eilertsen/improving-the-usability-of-refactoring-tools-for-software-change-tasks-5b627803469e) and find my thesis [here](https://bora.uib.no/bora-xmlui/handle/11250/2834069).
+
+My graduate research has focused on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. In my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
 
 ## News 
+* 2022 Looking for work! 
 * 2021 Successfully defended my dissertation [Improving the Usability of Refactoring Tools for Software Change Tasks](https://bora.uib.no/bora-xmlui/handle/11250/2834069)!!  
 * 2021 Dissertation submitted!! 🤞🤞🤞. 
 * 2021 Our paper "Stepwise Refactoring Tools" is [published along with a presentation](https://www.morressier.com/article/stepwise-refactoring-tools/613b5419842293c031b5b646)!  
@@ -10,11 +13,6 @@ My research focuses on helping humans edit programs. In my Master's thesis, I us
 * 2021 Our paper "Stepwise Refactoring Tools" was accepted at the [NIER Track at ICMSE](https://icsme2021.github.io/cfp/NIERTrack.html)! 
 * 2021 [NOKUT PhD Program Accreditation Committee](https://www.nokut.no/norsk-utdanning/hoyere-utdanning/sakkunnige--studietilbod-pa-ph.d.-niva/)
 * 2021 ["The Usability (or Not) of Refactoring Tools"](https://ieeexplore.ieee.org/abstract/document/9425894) presented at [SANER 2021](https://saner2021.shidler.hawaii.edu/accepted)  
-* 2021 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2021/ase-2021-nier-track-program-committee)
-* 2020 ["Predictable, Flexible or Correct: Trading off Refactoring Design Choices"](https://github.com/annaei/annaei.github.io/blob/master/paper/ICSE20-IWoR.pdf) 
-  presented at [ICSEW/IWoR'20](https://conf.researchr.org/track/icse-2020/icse-2020-Workshops)
-* 2020 [ASE NIER Program Committee](https://conf.researchr.org/committee/ase-2020/ase-2020-nier-track-program-committee)
-* 2020 [Booster Conference Committee](https://2020.boosterconf.no/info/about) 
 
 
 ## Contact
@@ -33,6 +31,9 @@ I have also been student volunteer, artifact reviewer, program committee member,
 
 
 ## Publications
+* Dissertation [Improving the Usability of Refactoring Tools for Software Change Tasks](https://bora.uib.no/bora-xmlui/handle/11250/2834069)  
+ by Anna Maria Eilertsen.
+
 * "Stepwise Refactoring Tools" [Access paper here](https://www.morressier.com/article/stepwise-refactoring-tools/613b5419842293c031b5b646)  
 by Anna Maria Eilertsen, Gail C. Murphy  
 in [ICMSE 2021 Nier Track](https://icsme2021.github.io/cfp/NIERTrack.html)! 
