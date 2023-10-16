@@ -1,11 +1,11 @@
-Hi! I am a fresh PhD graduate in software engineering looking for industry positions! [Download my CV here.](https://github.com/annaei/annaei.github.io/blob/master/doc/Eilertsen-Resume.pdf) If you have an opening for me, please reach out at anna.m.eilertsen@gmail.com. 
+Hi! I am a PhD graduate interested in industry positions! [Download my CV here.](https://github.com/annaei/annaei.github.io/blob/master/doc/Resume_Eilertsen.pdf) If you have an opening for me, please reach out at anna.m.eilertsen@gmail.com. 
 
 I completed my PhD at the [University of Bergen](http://www.uib.no/en)'s [department of computer science](http://www.uib.no/en/ii) in 2021. My advisors were Dr. [Anya Bagge](https://www.ii.uib.no/~anya/) and Prof. [Gail Murphy](https://www.cs.ubc.ca/people/gail-murphy). You can read more about my PhD [here](https://medium.com/@anna.m.eilertsen/improving-the-usability-of-refactoring-tools-for-software-change-tasks-5b627803469e) and find my thesis [here](https://bora.uib.no/bora-xmlui/handle/11250/2834069).
 
 My graduate research has focused on helping humans edit programs. In my Master's thesis, I used runtime verification to improve the safety of refactoring tools. In my PhD, I have utilized user-oriented research methods, like interviews, surveys, and lab studies, to investigate how we can improve code editing tools. The goal of my research is to make it faster and easier for developers to change software.  
 
 ## News 
-* 2022 Looking for work! 
+* 2022 Started work as a Software Engineering Developer at Amazon. 
 * 2021 Successfully defended my dissertation [Improving the Usability of Refactoring Tools for Software Change Tasks](https://bora.uib.no/bora-xmlui/handle/11250/2834069)!!  
 * 2021 Dissertation submitted!! 🤞🤞🤞. 
 * 2021 Our paper "Stepwise Refactoring Tools" is [published along with a presentation](https://www.morressier.com/article/stepwise-refactoring-tools/613b5419842293c031b5b646)!  
